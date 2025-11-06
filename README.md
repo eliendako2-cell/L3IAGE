@@ -7,5 +7,4 @@
 | Nom | Postnom | Prenom |
 | -------- | -------- | -------- |
 | Kasereka     | Kike     | 5000     |
-| Kasereka     | Mbunge    | Romain   
- mumbere.        ndako.      elie 
+| Kasereka     | Mbunge    | Romni 
