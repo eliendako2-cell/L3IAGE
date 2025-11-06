@@ -9,3 +9,4 @@
 | Kasereka | Kike        | 5000     |
 | Kasereka | Mbunge      | Romain   |
 | Kahindo  | Manzekele   | Gift     |
+| Katembo  | Luhavo   | Josias  |
