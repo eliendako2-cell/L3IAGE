@@ -24,3 +24,4 @@
 | kavira       | maghulu  | florence |
 | kavira   | kisonia  | naomie   |
 | Kambale      | vayisiriria| Grace    |
+| PALUKU   | MIGHERI  | Christien    |
