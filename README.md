@@ -32,6 +32,7 @@
 | kavira     | MULIVONDO     | Ornella   |
 | KASOKI     | VUSARA     | Livya     |
 | KAVUGHO    | MASTAKI    | Léonce    |
+| SOKIANE    | MATHE      | Prisca    |
 |MASIKA | MATUMO |Clarice|
 | MASIKA | MWENGESYALI | Alice |
 | ARCHANGE    | NYONDO    | Archange   |
