@@ -29,6 +29,7 @@
 | corinne  | sadjabi | brown  |
 | Muhindo     | Mumbesa    | Jospin    |
 | JAKISA     | UROMBI     | Dieu merci     |
+| KANYERE   | KITULU    | laureine     |
 | kavira     | MULIVONDO     | Ornella   |
 | KASOKI     | VUSARA     | Livya     |
 | KAVUGHO    | MASTAKI    | Léonce    |
